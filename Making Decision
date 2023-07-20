@@ -1,0 +1,16 @@
+c = 25
+if (c < 30) :
+  print("let have a party")
+let have a party
+    
+c = 25
+if (c<30) :
+  print("let have a party")
+  
+c = 25
+if (c<20):
+  print("let have a party")
+else:
+  print("let stay home")
+  
+let stay home
